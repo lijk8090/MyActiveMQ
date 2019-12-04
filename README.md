@@ -1,2 +1,2 @@
 # MyActiveMQ
-MyActiveMQ Topic 模式
+ActiveMQ Topic 模式

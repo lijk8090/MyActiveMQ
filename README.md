@@ -1,2 +1,2 @@
 # MyActiveMQ
-ActiveMQ Topic 模式
+ActiveMQ Topic 客户端&服务端示例
